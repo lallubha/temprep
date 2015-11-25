@@ -1,0 +1,14 @@
+.row {
+	padding-top: 20px;
+	padding-left: 0px;
+	padding-bottom: 20px;
+}
+div.break { clear: both; height: 1px; width: 1px; overflow: hidden; }
+.pimg {float: left;display: block;width: 130px;margin: 6px 0 0 0;padding: 0 15px;text-align: center;}
+.pimg img { max-width:130px; max-height:130px; _height: 130px; _width: 130px;vertical-align: middle;}
+
+.rowtxt { padding-right: 0;margin-left: 162px;position: relative;}
+
+.txt {margin-top: 10px;}
+.txt a {text-decoration: underline;}
+.txt ul li, .txt ol li {line-height: 22px;}
