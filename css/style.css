@@ -12,3 +12,10 @@ div.break { clear: both; height: 1px; width: 1px; overflow: hidden; }
 .txt {margin-top: 10px;}
 .txt a {text-decoration: underline;}
 .txt ul li, .txt ol li {line-height: 22px;}
+
+html, body {
+    font-family: verdana,arial,helvetica,sans-serif;
+    color: #111;
+    font-size: 14px;
+    line-height: 20px;
+}
